@@ -1,0 +1,5 @@
+{
+  "name": "ICU Antibiotic Guide",
+  "description": "Empirical antibiotic therapy guide for ICU patients with renal function calculator.",
+  "requestFramePermissions": []
+}
